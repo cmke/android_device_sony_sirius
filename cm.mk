@@ -4,7 +4,7 @@ STRICT_ALIASING := true
 USE_HOST_4_8 := true
 USE_O3_OPTIMIZATIONS := true
 KRAIT_TUNINGS := true
-TARGET_TC_ROM := 4.9
+TARGET_TC_ROM := 4.8
 TARGET_TC_KERNEL := 4.9-sm
 
 # Inherit CM common Phone stuff.
